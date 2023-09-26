@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "email": "diego@gmail.com",
+      "password": "123",
+      "type": "farmer",
+      "name": "Diego Talledo",
+      "id": 1
+    },
+    {
+      "email": "alonso@gmail.com",
+      "password": "123",
+      "type": "specialist",
+      "name": "Alonso Sanchez",
+      "id": 2
+    }
+  ],
+  "farmerCrop": [
+    {
+      "id": 1
+      "farmerId": 1,
+      "plantId":1
+    },
+    {
+      "id": 2
+      "farmerId": 1,
+      "plantId":2
+    },
+    {
+      "id": 3
+      "farmerId": 1,
+      "plantId":3
+    },
+    {
+      "id": 4
+      "farmerId": 1,
+      "plantId":8
+    },
+  ],
+  "plant": [
+    {
+  "id": 1,
+  "name": "Cabbage",
+  "scientificName": "Brassica oleracea var",
+  "imageUrl": "https://media.istockphoto.com/id/1341385091/photo/cabbage-cultivation-close-up.webp?b=1&s=170667a&w=0&k=20&c=HduVWYvfC3B_57LGowVTgGkYKSAXUVFJdGdyG4e4wW8=",
+  "variety": "Brassica oleracea",
+  "landType": "Loamy soil",
+  "weatherConditions": "Cool and moist",
+  "distanceBetweenPlants": "12 inches",
+  "idealPlantingDepth": "1/4 inch",
+  "fertilizationAndFumigation": "Organic compost and natural pest repellents"
+    },
+    {
+    "id": 2,
+    "name": "Tomato",
+    "scientificName": "Solanum lycopersicum",
+    "imageUrl": "https://www.almanac.com/sites/default/files/styles/or/public/image_nodes/tomatoes_helios4eos_gettyimages-edit.jpg?itok=AFHF0CtR",
+    "variety": "Cherry Tomato",
+    "landType": "Loamy soil",
+    "weatherConditions": "Warm and sunny",
+    "distanceBetweenPlants": "18 inches",
+    "idealPlantingDepth": "1/4 inch",
+    "fertilizationAndFumigation": "Organic compost and natural pesticides"
+  },
+  {
+    "id": 3,
+    "name": "Carrot",
+    "scientificName": "Daucus carota subsp. sativus",
+    "imageUrl": "https://blog-images-1.pharmeasy.in/blog/production/wp-content/uploads/2021/04/23175719/shutterstock_440493100-1.jpg",
+    "variety": "Nantes",
+    "landType": "Sandy soil",
+    "weatherConditions": "Mild temperatures",
+    "distanceBetweenPlants": "2 inches",
+    "idealPlantingDepth": "1/4 inch",
+    "fertilizationAndFumigation": "Well-rotted compost and neem oil"
+  },
+  {
+    "id": 4,
+    "name": "Lettuce",
+    "scientificName": "Lactuca sativa",
+    "imageUrl": "https://www.bhg.com/thmb/oL0DwR0DXrhFynA2y-oiY-nkCbg=/1878x0/filters:no_upscale():strip_icc()/tango-oakleaf-lettuce-c6f6417e-4cffa63034624d96a9e9ec9a3fe158f9.jpg",
+    "variety": "Romaine",
+    "landType": "Loamy soil",
+    "weatherConditions": "Cool and mild",
+    "distanceBetweenPlants": "8 inches",
+    "idealPlantingDepth": "1/8 inch",
+    "fertilizationAndFumigation": "Fish emulsion and garlic spray"
+  },
+  {
+    "id": 5,
+    "name": "Cucumber",
+    "scientificName": "Cucumis sativus",
+    "imageUrl": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-06/Type%20of%20cucumber.jpg",
+    "variety": "American Pickling",
+    "landType": "Sandy loam soil",
+    "weatherConditions": "Warm and sunny",
+    "distanceBetweenPlants": "12 inches",
+    "idealPlantingDepth": "1 inch",
+    "fertilizationAndFumigation": "Organic compost and neem oil"
+  },
+  {
+    "id": 6,
+    "name": "Pepper",
+    "scientificName": "Capsicum annuum",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/close-up-of-green-red-and-orange-bell-peppers-royalty-free-image-622418542-1558536290.jpg",
+    "variety": "Bell Pepper",
+    "landType": "Sandy loam soil",
+    "weatherConditions": "Warm and sunny",
+    "distanceBetweenPlants": "18 inches",
+    "idealPlantingDepth": "1/4 inch",
+    "fertilizationAndFumigation": "Compost and natural insect repellents"
+  },
+  {
+    "id": 7,
+    "name": "Spinach",
+    "scientificName": "Spinacia oleracea",
+    "imageUrl": "https://www.realsimple.com/thmb/SM_Az3lxe-GGjpMXj5duFoOWyno=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/health-benefits-of-spinach-GettyImages-1188680084-93242645c1c24a08b52a056ea09c3d61.jpg",
+    "variety": "Bloomsdale",
+    "landType": "Sandy soil",
+    "weatherConditions": "Cool temperatures",
+    "distanceBetweenPlants": "6 inches",
+    "idealPlantingDepth": "1/2 inch",
+    "fertilizationAndFumigation": "Aged compost and diatomaceous earth"
+  },
+  {
+    "id": 8,
+    "name": "Zucchini",
+    "scientificName": "Cucurbita pepo",
+    "imageUrl": "https://www.lanacion.com.py/resizer/6pKtpv4jEMgF6BcorFyMc3ieTVI=/1016x0/smart/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/O3CYQSWRJVHQJNRLCK4A4VJH2U.jpeg",
+    "variety": "Black Beauty",
+    "landType": "Sandy loam soil",
+    "weatherConditions": "Warm and sunny",
+    "distanceBetweenPlants": "24 inches",
+    "idealPlantingDepth": "1 inch",
+    "fertilizationAndFumigation": "Compost and neem oil"
+  },
+  {
+    "id": 9,
+    "name": "Broccoli",
+    "scientificName": "Brassica oleracea var. italica",
+    "imageUrl": "https://domf5oio6qrcr.cloudfront.net/medialibrary/5390/h1218g16207258089583.jpg",
+    "variety": "Calabrese",
+    "landType": "Loamy soil",
+    "weatherConditions": "Cool temperatures",
+    "distanceBetweenPlants": "18 inches",
+    "idealPlantingDepth": "1/2 inch",
+    "fertilizationAndFumigation": "Organic compost and natural insect repellents"
+  },
+  {
+    "id": 10,
+    "name": "Potato",
+    "scientificName": "Solanum tuberosum",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/iC7HBvohbJqExqvbKcV3pP.jpg",
+    "variety": "Russet",
+    "landType": "Sandy loam soil",
+    "weatherConditions": "Cool temperatures",
+    "distanceBetweenPlants": "12 inches",
+    "idealPlantingDepth": "3 inches",
+    "fertilizationAndFumigation": "Well-rotted compost and copper sulfate"
+  }
+  ]
+}
