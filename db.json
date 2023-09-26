@@ -17,22 +17,22 @@
   ],
   "farmerCrop": [
     {
-      "id": 1
+      "id": 1,
       "farmerId": 1,
       "plantId":1
     },
     {
-      "id": 2
+      "id": 2,
       "farmerId": 1,
       "plantId":2
     },
     {
-      "id": 3
+      "id": 3,
       "farmerId": 1,
       "plantId":3
     },
     {
-      "id": 4
+      "id": 4,
       "farmerId": 1,
       "plantId":8
     },
