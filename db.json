@@ -4,6 +4,7 @@
       "email": "diego@gmail.com",
       "password": "123",
       "imageUrl": "https://iica.int/sites/default/files/2020-01/Depositphotos_76015093_s-2019.jpg",
+      "location": "Lima, Perú",
       "type": "farmer",
       "name": "Diego Talledo",
       "id": 1
@@ -12,6 +13,7 @@
       "email": "alonso@gmail.com",
       "password": "123",
       "imageUrl": "https://iica.int/sites/default/files/2020-01/Depositphotos_76015093_s-2019.jpg",
+      "location": "Lima, Perú",
       "type": "specialist",
       "name": "Alonso Sanchez",
       "id": 2
@@ -20,6 +22,7 @@
     "email": "laura@gmail.com",
     "password": "123",
       "imageUrl": "https://www.revistaeconomia.com/wp-content/uploads/2023/09/revistaeconomia-2023-09-06T164349.170.jpg",
+      "location": "Lima, Perú",
     "type": "specialist",
     "name": "Laura González",
     "id": 3
@@ -28,7 +31,8 @@
     "email": "carlos@gmail.com",
     "password": "123",
       "imageUrl": "https://gestion.pe/resizer/2ZVQ-ZXoRYEbZPynO_ILup5zfqY=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/7HQ77BH3FVHTJBONJMQ4CTK6BI.jpg",
-    "type": "specialist",
+    "location": "Lima, Perú",
+      "type": "specialist",
     "name": "Carlos Rodríguez",
     "id": 4
     },
@@ -36,6 +40,7 @@
     "email": "ana@gmail.com",
     "password": "123",
       "imageUrl": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2021/09/06/000805292W.jpg",
+      "location": "Lima, Perú",
     "type": "specialist",
     "name": "Ana Pérez",
     "id": 5
@@ -44,6 +49,7 @@
     "email": "javier@gmail.com",
     "password": "123",
       "imageUrl": "https://www.cimmyt.org/content/uploads/sites/2/2023/05/580_dia-trabajador.jpg",
+      "location": "Lima, Perú",
     "type": "specialist",
     "name": "Javier López",
     "id": 6
@@ -53,76 +59,37 @@
   {
     "id": 1,
     "userId": 2,
-    "experience": "Más de 10 años de experiencia en agricultura sostenible.",
-    "education": "Licenciatura en Agricultura Sostenible de la Universidad XYZ.",
-    "certifications": [
-      "Certificado en Manejo de Plagas",
-      "Certificado en Agricultura Orgánica"
-    ],
-    "specializations": [
-      "Cultivo de hortalizas",
-      "Manejo de suelos",
-      "Agricultura de precisión"
-    ]
+    "expertise": "Especialista en crecimiento de plantas",
+    "contactEmail": "susanapuesto@example.com",
+    "areasOfFocus": "Gestión de cultivos, Salud del suelo, Control de plagas"
   },
   {
     "id": 2,
     "userId": 3,
-    "experience": "Especialista en cultivo de frutas tropicales.",
-    "education": "Máster en Horticultura de la Universidad ABC.",
-    "certifications": [
-      "Certificado en Manejo de Frutales Tropicales"
-    ],
-    "specializations": [
-      "Cultivo de mangos",
-      "Cultivo de plátanos",
-      "Manejo de enfermedades de frutas tropicales"
-    ]
+    "expertise": "Especialista en crecimiento de plantas",
+    "contactEmail": "juanperez@example.com",
+    "areasOfFocus": "Gestión de cultivos, Agricultura orgánica"
   },
-    {
+  {
     "id": 3,
     "userId": 4,
-    "experience": "Especialista en agricultura orgánica y sostenible.",
-    "education": "Doctorado en Agricultura Ecológica de la Universidad ABC.",
-    "certifications": [
-      "Certificado en Agricultura Orgánica",
-      "Certificado en Gestión del Agua"
-    ],
-    "specializations": [
-      "Cultivo de cultivos de hojas verdes",
-      "Manejo de sistemas de riego sostenible",
-      "Agricultura sin químicos"
-    ]
+    "expertise": "Especialista en crecimiento de plantas",
+    "contactEmail": "lauragomez@example.com",
+    "areasOfFocus": "Gestión de cultivos, Agricultura sostenible"
   },
   {
     "id": 4,
     "userId": 5,
-    "experience": "Experto en agricultura de precisión y tecnología agrícola.",
-    "education": "Máster en Tecnología Agrícola de la Universidad XYZ.",
-    "certifications": [
-      "Certificado en Agricultura de Precisión",
-      "Certificado en Drones Agrícolas"
-    ],
-    "specializations": [
-      "Uso de drones en la agricultura",
-      "Agricultura de precisión con sensores",
-      "Gestión de datos agrícolas"
-    ]
+    "expertise": "Especialista en crecimiento de plantas",
+    "contactEmail": "carlosrodriguez@example.com",
+    "areasOfFocus": "Gestión de cultivos, Tecnología agrícola"
   },
   {
     "id": 5,
     "userId": 6,
-    "experience": "Especialista en cultivo de frutas cítricas.",
-    "education": "Licenciatura en Horticultura de la Universidad DEF.",
-    "certifications": [
-      "Certificado en Citricultura",
-      "Certificado en Manejo de Plagas en Cítricos"
-    ],
-    "specializations": [
-      "Cultivo de naranjas",
-      "Cultivo de limones",
-      "Manejo de enfermedades en cítricos"
-    ]
+    "expertise": "Especialista en crecimiento de plantas",
+    "contactEmail": "lucaslopez@example.com",
+    "areasOfFocus": "Gestión de cultivos, Horticultura"
   }
 ],
  "farmerCrop": [
