@@ -13,12 +13,41 @@
       "type": "specialist",
       "name": "Alonso Sanchez",
       "id": 2
-    }
+    },
+    {
+  "email": "laura@gmail.com",
+  "password": "123",
+  "type": "specialist",
+  "name": "Laura González",
+  "id": 3
+},
+    {
+  "email": "carlos@gmail.com",
+  "password": "123",
+  "type": "specialist",
+  "name": "Carlos Rodríguez",
+  "id": 4
+},
+    {
+  "email": "ana@gmail.com",
+  "password": "123",
+  "type": "specialist",
+  "name": "Ana Pérez",
+  "id": 5
+},
+    {
+  "email": "javier@gmail.com",
+  "password": "123",
+  "type": "specialist",
+  "name": "Javier López",
+  "id": 6
+},
   ],
   "Specialist": [
   {
     "id": 1,
-    "userId": 1,
+    "userId": 2,
+     "imageUrl": "https://iica.int/sites/default/files/2020-01/Depositphotos_76015093_s-2019.jpg",
     "experience": "Más de 10 años de experiencia en agricultura sostenible.",
     "education": "Licenciatura en Agricultura Sostenible de la Universidad XYZ.",
     "certifications": [
@@ -33,7 +62,8 @@
   },
   {
     "id": 2,
-    "userId": 2,
+    "userId": 3,
+    "imageUrl": "https://www.revistaeconomia.com/wp-content/uploads/2023/09/revistaeconomia-2023-09-06T164349.170.jpg",
     "experience": "Especialista en cultivo de frutas tropicales.",
     "education": "Máster en Horticultura de la Universidad ABC.",
     "certifications": [
@@ -47,7 +77,8 @@
   },
     {
     "id": 3,
-    "userId": 3,
+    "userId": 4,
+      "imageUrl": "https://gestion.pe/resizer/2ZVQ-ZXoRYEbZPynO_ILup5zfqY=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/7HQ77BH3FVHTJBONJMQ4CTK6BI.jpg",
     "experience": "Especialista en agricultura orgánica y sostenible.",
     "education": "Doctorado en Agricultura Ecológica de la Universidad ABC.",
     "certifications": [
@@ -62,7 +93,8 @@
   },
   {
     "id": 4,
-    "userId": 4,
+    "userId": 5,
+    "imageUrl": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2021/09/06/000805292W.jpg",
     "experience": "Experto en agricultura de precisión y tecnología agrícola.",
     "education": "Máster en Tecnología Agrícola de la Universidad XYZ.",
     "certifications": [
@@ -77,7 +109,8 @@
   },
   {
     "id": 5,
-    "userId": 5,
+    "userId": 6,
+    "imageUrl": "https://www.cimmyt.org/content/uploads/sites/2/2023/05/580_dia-trabajador.jpg",
     "experience": "Especialista en cultivo de frutas cítricas.",
     "education": "Licenciatura en Horticultura de la Universidad DEF.",
     "certifications": [
