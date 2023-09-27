@@ -15,6 +15,82 @@
       "id": 2
     }
   ],
+  "Specialist": [
+  {
+    "id": 1,
+    "userId": 1,
+    "experience": "Más de 10 años de experiencia en agricultura sostenible.",
+    "education": "Licenciatura en Agricultura Sostenible de la Universidad XYZ.",
+    "certifications": [
+      "Certificado en Manejo de Plagas",
+      "Certificado en Agricultura Orgánica"
+    ],
+    "specializations": [
+      "Cultivo de hortalizas",
+      "Manejo de suelos",
+      "Agricultura de precisión"
+    ]
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "experience": "Especialista en cultivo de frutas tropicales.",
+    "education": "Máster en Horticultura de la Universidad ABC.",
+    "certifications": [
+      "Certificado en Manejo de Frutales Tropicales"
+    ],
+    "specializations": [
+      "Cultivo de mangos",
+      "Cultivo de plátanos",
+      "Manejo de enfermedades de frutas tropicales"
+    ]
+  },
+    {
+    "id": 3,
+    "userId": 3,
+    "experience": "Especialista en agricultura orgánica y sostenible.",
+    "education": "Doctorado en Agricultura Ecológica de la Universidad ABC.",
+    "certifications": [
+      "Certificado en Agricultura Orgánica",
+      "Certificado en Gestión del Agua"
+    ],
+    "specializations": [
+      "Cultivo de cultivos de hojas verdes",
+      "Manejo de sistemas de riego sostenible",
+      "Agricultura sin químicos"
+    ]
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "experience": "Experto en agricultura de precisión y tecnología agrícola.",
+    "education": "Máster en Tecnología Agrícola de la Universidad XYZ.",
+    "certifications": [
+      "Certificado en Agricultura de Precisión",
+      "Certificado en Drones Agrícolas"
+    ],
+    "specializations": [
+      "Uso de drones en la agricultura",
+      "Agricultura de precisión con sensores",
+      "Gestión de datos agrícolas"
+    ]
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "experience": "Especialista en cultivo de frutas cítricas.",
+    "education": "Licenciatura en Horticultura de la Universidad DEF.",
+    "certifications": [
+      "Certificado en Citricultura",
+      "Certificado en Manejo de Plagas en Cítricos"
+    ],
+    "specializations": [
+      "Cultivo de naranjas",
+      "Cultivo de limones",
+      "Manejo de enfermedades en cítricos"
+    ]
+  }
+],
  "farmerCrop": [
     {
       "id": 1,
