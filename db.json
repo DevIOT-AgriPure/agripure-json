@@ -13,34 +13,6 @@
       "type": "specialist",
       "name": "Alonso Sanchez",
       "id": 2
-    },
-    {
-    "email": "laura@gmail.com",
-    "password": "123",
-    "type": "specialist",
-    "name": "Laura González",
-    "id": 3
-    },
-    {
-    "email": "carlos@gmail.com",
-    "password": "123",
-    "type": "specialist",
-    "name": "Carlos Rodríguez",
-    "id": 4
-    },
-    {
-    "email": "ana@gmail.com",
-    "password": "123",
-    "type": "specialist",
-    "name": "Ana Pérez",
-    "id": 5
-    },
-    {
-    "email": "javier@gmail.com",
-    "password": "123",
-    "type": "specialist",
-    "name": "Javier López",
-    "id": 6
     }
   ],
   "Specialist": [
