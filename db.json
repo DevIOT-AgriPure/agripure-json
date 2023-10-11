@@ -92,36 +92,6 @@
     "areasOfFocus": "Gestión de cultivos, Horticultura"
   }
 ],
-  "Messages":[
-    {
-      "id":1,
-      "contactId":1,
-      "AutorId":1,
-      "message":"Hola alonso, me gustaria obtener un asesoramiento",
-      "order":1
-    },
-    {
-      "id":2,
-      "contactId":1,
-      "AutorId":2,
-      "message":"Hola diego, claro! dime como te puedo ayudar",
-      "order":2
-    },
-    {
-      "id":3,
-      "contactId":1,
-      "AutorId":1,
-      "message":"Quiero empezar un cultivo de lechugas pero no tengo experiencia",
-      "order":3
-    },
-    {
-      "id":4,
-      "contactId":1,
-      "AutorId":2,
-      "message":"Okey, de cuantos metros estamos hablando?",
-      "order":4
-    }
-  ],
   "Contacts": [
     {
       "id": 1,
