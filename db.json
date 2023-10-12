@@ -96,17 +96,20 @@
     {
       "id": 1,
       "farmerId": 1,
-      "specialistId": 2
+      "specialistId": 2,
+      "isChatStarted":true
     },
     {
       "id": 2,
       "farmerId": 1,
-      "specialistId": 3
+      "specialistId": 3,
+      "isChatStarted":false
     },
    {
       "id": 3,
       "farmerId": 1,
-      "specialistId": 4
+      "specialistId": 4,
+      "isChatStarted":false
     }
   ],
  "farmerCrop": [
