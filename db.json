@@ -69,7 +69,7 @@
       "pH": 6.5
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "Pepper",
     "scientificName": "Capsicum annuum",
     "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/close-up-of-green-red-and-orange-bell-peppers-royalty-free-image-622418542-1558536290.jpg",
@@ -86,7 +86,7 @@
       "pH": 6.0
   },
   {
-    "id": 7,
+    "id": 6,
     "name": "Spinach",
     "scientificName": "Spinacia oleracea",
     "imageUrl": "https://www.realsimple.com/thmb/SM_Az3lxe-GGjpMXj5duFoOWyno=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/health-benefits-of-spinach-GettyImages-1188680084-93242645c1c24a08b52a056ea09c3d61.jpg",
@@ -103,7 +103,7 @@
       "pH": 6.5
   },
   {
-    "id": 9,
+    "id": 7,
     "name": "Broccoli",
     "scientificName": "Brassica oleracea var. italica",
     "imageUrl": "https://domf5oio6qrcr.cloudfront.net/medialibrary/5390/h1218g16207258089583.jpg",
@@ -120,7 +120,7 @@
       "pH": 6.0
   },
   {
-    "id": 10,
+    "id": 8,
     "name": "Potato",
     "scientificName": "Solanum tuberosum",
     "imageUrl": "https://cdn.mos.cms.futurecdn.net/iC7HBvohbJqExqvbKcV3pP.jpg",
@@ -137,7 +137,7 @@
       "pH": 5.8
   },
     {
-      "id": 12,
+      "id": 9,
       "name": "Lucuma",
       "scientificName": "Pouteria lucuma",
       "imageUrl": "https://peru.info/archivos/publicacion/110-imagen-114414992019.jpg",
@@ -154,7 +154,7 @@
       "pH": 6.5
     },
     {
-      "id": 13,
+      "id": 10,
       "name": "Pisco Grape",
       "scientificName": "Vitis vinifera",
       "imageUrl": "https://vinepair.com/wp-content/uploads/2015/12/pisco-social.jpg",
@@ -171,7 +171,7 @@
       "pH": 6.0
     },
     {
-      "id": 14,
+      "id": 11,
       "name": "Aji Amarillo",
       "scientificName": "Capsicum baccatum",
       "imageUrl": "https://e.rpp-noticias.io/xlarge/2019/10/31/504250_859016.jpg",
@@ -188,7 +188,7 @@
       "pH": 6.5
     },
     {
-      "id": 15,
+      "id": 12,
       "name": "Maca Root",
       "scientificName": "Lepidium meyenii",
       "imageUrl": "https://cdn-prod.medicalnewstoday.com/content/images/articles/322/322511/maca-root.jpg",
@@ -205,7 +205,7 @@
       "pH": 6.0
     },
     {
-      "id": 16,
+      "id": 13,
       "name": "Purple Corn",
       "scientificName": "Zea mays",
       "imageUrl": "https://cdn-prod.medicalnewstoday.com/content/images/articles/324/324989/purple-corn.jpg",
@@ -222,7 +222,7 @@
       "pH": 5.8
     },
     {
-      "id": 19,
+      "id": 14,
       "name": "Cacao",
       "scientificName": "Theobroma cacao",
       "imageUrl": "https://www.faborit.com/wp-content/uploads/2020/07/blog-cacao-chocolate-planta.jpg",
@@ -239,7 +239,7 @@
       "pH": 6.5
     },
     {
-      "id": 20,
+      "id": 15,
       "name": "Maracuyá",
       "scientificName": "Passiflora ligularis",
       "imageUrl": "https://cdn.portalfruticola.com/2020/12/Passion-fruit-shutterstock_120206872-1024x683.jpg",
@@ -256,7 +256,7 @@
       "pH": 6.5
     },
     {
-      "id": 22,
+      "id": 16,
       "name": "Yuca",
       "scientificName": "Manihot esculenta",
       "imageUrl": "https://imag.bonviveur.com/varios-ejemplares-de-yuca-o-mandioca-enteros-y-sin-pelar.jpg",
