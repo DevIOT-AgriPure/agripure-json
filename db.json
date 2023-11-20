@@ -127,24 +127,6 @@
       "lightConditions": false
   },
   {
-    "id": 8,
-    "name": "Zucchini",
-    "scientificName": "Cucurbita pepo",
-    "imageUrl": "https://www.lanacion.com.py/resizer/6pKtpv4jEMgF6BcorFyMc3ieTVI=/1016x0/smart/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/O3CYQSWRJVHQJNRLCK4A4VJH2U.jpeg",
-    "variety": "Black Beauty",
-    "landType": "Sandy loam soil",
-    "weatherConditions": "Warm and sunny",
-    "distanceBetweenPlants": "24 inches",
-    "idealPlantingDepth": "1 inch",
-    "fertilizationAndFumigation": "Compost and neem oil",
-     "minTemp": 20,
-      "maxTemp": 35,
-      "minHumidity": 60,
-      "maxHumidity": 90,
-      "pH": 6.0,
-      "lightConditions": true
-  },
-  {
     "id": 9,
     "name": "Broccoli",
     "scientificName": "Brassica oleracea var. italica",
@@ -307,24 +289,6 @@
       "lightConditions": true
     },
     {
-      "id": 18,
-      "name": "Sacha Inchi",
-      "scientificName": "Plukenetia volubilis",
-      "imageUrl": "https://i.imgur.com/8g3ebnL.jpg",
-      "variety": "Mountain Sacha Inchi",
-      "landType": "Well-drained soil",
-      "weatherConditions": "Cool and humid",
-      "distanceBetweenPlants": "24 inches",
-      "idealPlantingDepth": "1 inch",
-      "fertilizationAndFumigation": "Organic compost and aged manure",
-      "minTemp": 15,
-      "maxTemp": 25,
-      "minHumidity": 50,
-      "maxHumidity": 80,
-      "pH": 6.0,
-      "lightConditions": true
-    },
-    {
       "id": 19,
       "name": "Cacao",
       "scientificName": "Theobroma cacao",
@@ -376,24 +340,6 @@
       "minHumidity": 40,
       "maxHumidity": 80,
       "pH": 6.0,
-      "lightConditions": true
-    },
-    {
-      "id": 22,
-      "name": "Achira",
-      "scientificName": "Canna indica",
-      "imageUrl": "https://i.imgur.com/XWgws5M.jpg",
-      "variety": "Peruvian Achira",
-      "landType": "Sandy loam soil",
-      "weatherConditions": "Warm and rainy",
-      "distanceBetweenPlants": "30 inches",
-      "idealPlantingDepth": "2 inches",
-      "fertilizationAndFumigation": "Organic compost and fish emulsion",
-      "minTemp": 20,
-      "maxTemp": 32,
-      "minHumidity": 60,
-      "maxHumidity": 90,
-      "pH": 6.5,
       "lightConditions": true
     }
   ]
