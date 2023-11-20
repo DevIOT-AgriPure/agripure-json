@@ -289,6 +289,6 @@
       "maxHumidity": 80,
       "pH": 5.5,
       "lightConditions": true
-    },
+    }
   ]
 }
