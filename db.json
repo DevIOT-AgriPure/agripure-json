@@ -73,24 +73,6 @@
       "lightConditions": true
   },
   {
-    "id": 5,
-    "name": "Cucumber",
-    "scientificName": "Cucumis sativus",
-    "imageUrl": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-06/Type%20of%20cucumber.jpg",
-    "variety": "American Pickling",
-    "landType": "Sandy loam soil",
-    "weatherConditions": "Warm and sunny",
-    "distanceBetweenPlants": "12 inches",
-    "idealPlantingDepth": "1 inch",
-    "fertilizationAndFumigation": "Organic compost and neem oil",
-    "minTemp": 20,
-      "maxTemp": 35,
-      "minHumidity": 60,
-      "maxHumidity": 90,
-      "pH": 6.0,
-      "lightConditions": true
-  },
-  {
     "id": 6,
     "name": "Pepper",
     "scientificName": "Capsicum annuum",
@@ -162,24 +144,6 @@
       "pH": 5.8,
       "lightConditions": false
   },
-    {
-      "id": 11,
-      "name": "Quinoa",
-      "scientificName": "Chenopodium quinoa",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Quinoa_-_popped%2C_unpopped.jpg/800px-Quinoa_-_popped%2C_unpopped.jpg",
-      "variety": "White Quinoa",
-      "landType": "Well-drained soil",
-      "weatherConditions": "Cool and dry",
-      "distanceBetweenPlants": "10 inches",
-      "idealPlantingDepth": "1/2 inch",
-      "fertilizationAndFumigation": "Compost and organic fertilizers",
-      "minTemp": 8,
-      "maxTemp": 25,
-      "minHumidity": 20,
-      "maxHumidity": 60,
-      "pH": 6.0,
-      "lightConditions": true
-    },
     {
       "id": 12,
       "name": "Lucuma",
