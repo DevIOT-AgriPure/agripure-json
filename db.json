@@ -256,23 +256,6 @@
       "pH": 6.5
     },
     {
-      "id": 21,
-      "name": "Yacón",
-      "scientificName": "Smallanthus sonchifolius",
-      "imageUrl": "https://peru.info/archivos/publicacion/149-imagen-153748652020.jpg",
-      "variety": "Peruvian Yacón",
-      "landType": "Loamy soil",
-      "weatherConditions": "Cool and moist",
-      "distanceBetweenPlants": "18 inches",
-      "idealPlantingDepth": "2 inches",
-      "fertilizationAndFumigation": "Organic compost and aged manure",
-      "minTemp": 15,
-      "maxTemp": 25,
-      "minHumidity": 40,
-      "maxHumidity": 80,
-      "pH": 6.0
-    },
-    {
       "id": 22,
       "name": "Yuca",
       "scientificName": "Manihot esculenta",
