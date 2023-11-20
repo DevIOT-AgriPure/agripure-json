@@ -271,6 +271,24 @@
       "minHumidity": 40,
       "maxHumidity": 80,
       "pH": 6.0
-    }
+    },
+    {
+      "id": 22,
+      "name": "Yuca",
+      "scientificName": "Manihot esculenta",
+      "imageUrl": "https://imag.bonviveur.com/varios-ejemplares-de-yuca-o-mandioca-enteros-y-sin-pelar.jpg",
+      "variety": "Common Cassava",
+      "landType": "Well-drained soil",
+      "weatherConditions": "Warm and tropical",
+      "distanceBetweenPlants": "36 inches",
+      "idealPlantingDepth": "2 inches",
+      "fertilizationAndFumigation": "Balanced fertilizer and organic compost",
+      "minTemp": 25,
+      "maxTemp": 35,
+      "minHumidity": 50,
+      "maxHumidity": 80,
+      "pH": 5.5,
+      "lightConditions": true
+    },
   ]
 }
